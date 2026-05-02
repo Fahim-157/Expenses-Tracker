@@ -3,7 +3,7 @@
 A simple and intuitive expense tracking application built with React and Vite. Keep track of your spending with ease, categorize expenses, and view summaries.
 
 <p align="center">
-  <img src="./dist/Screenshot 1png" width="500"/>
+  <img src="./dist/Screenshot 1png"/>
 </p>
 
 ## Features
@@ -15,6 +15,10 @@ A simple and intuitive expense tracking application built with React and Vite. K
 - **Persistent Storage**: Uses localStorage to save your data locally in the browser.
 - **Responsive Design**: Works seamlessly on desktop and mobile devices.
 - **Total Summary**: View total number of expenses and total amount spent.
+
+<p align="center">
+  <img src="./dist/Screenshot 2.png"/>
+</p>
 
 ## Technologies Used
 
