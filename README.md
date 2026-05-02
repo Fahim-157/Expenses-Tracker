@@ -2,7 +2,9 @@
 
 A simple and intuitive expense tracking application built with React and Vite. Keep track of your spending with ease, categorize expenses, and view summaries.
 
-![App Screenshot](.dist\Screenshot 1png)
+<p align="center">
+  <img src="./dist/Screenshot 1png" width="500"/>
+</p>
 
 ## Features
 
