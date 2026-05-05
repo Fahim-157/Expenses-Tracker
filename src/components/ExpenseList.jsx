@@ -17,7 +17,7 @@ export default function ExpenseList() {
   const currentItems = filteredExpenses.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
 
   useEffect(() => {
-    setCurrentPage(1);
+    () => setCurrentPage(1);
   }, [selectedCategory, filteredExpenses.length]);
 
   const handleDelete = (id) => {
